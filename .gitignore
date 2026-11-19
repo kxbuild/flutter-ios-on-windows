@@ -1,0 +1,51 @@
+# Build output and caches of every stack the courses use
+
+# Xcode / Swift
+build/
+.build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.ipa
+*.dSYM.zip
+*.dSYM
+Pods/
+
+# Flutter / Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+
+# React Native / Node
+node_modules/
+.expo/
+*.log
+.metro-health-check*
+
+# Godot
+.godot/
+.import/
+export_presets.cfg
+
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Signing files never go in the repo
+*.p12
+*.mobileprovision
+keychain/
+
+# Editors and OS
+.vscode/*
+!.vscode/settings.json
+!.vscode/launch.json
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,10 @@
+# Same line endings for learners on Windows, macOS and Linux
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.gif binary
+*.ttf binary
+*.otf binary
+*.wav binary
+*.mp3 binary
+*.import -diff
