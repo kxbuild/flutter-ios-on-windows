@@ -39,7 +39,6 @@ One folder per lesson (`lessons/`):
 
 To open a lesson's `start/` or `final/`: open the folder in VS Code, connect your iPhone, and click Build & Run in the KXBuild view. The first time, run Doctor once.
 
-`data/` holds what the apps download at run time (quotes of the day, a sample image).
 
 ## Lessons
 

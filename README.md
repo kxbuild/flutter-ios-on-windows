@@ -39,7 +39,6 @@ English: [README.en.md](README.en.md)
 
 打开某一课的 `start/` 或 `final/`：在 VS Code 里打开这个文件夹，连上 iPhone，在 KXBuild 侧边栏点 Build & Run。第一次打开先运行一次 Doctor 体检。
 
-`data/` 里是 App 运行时从网上读取的数据（每日一句、示例图片）。
 
 ## 课程目录
 
