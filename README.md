@@ -10,6 +10,7 @@
 English: [README.en.md](README.en.md)
 
 <!-- links -->
+**视频**：[YouTube 播放列表](https://www.youtube.com/playlist?list=PLPjfLxuxybDs)
 <!-- /links -->
 
 ## 常见问题
@@ -47,7 +48,7 @@ English: [README.en.md](README.en.md)
 
 | # | 课程 | 视频 | 代码 |
 |---|---|---|---|
-| 00 | [AI 都会写代码了，还要学编程吗？](lessons/00-why-code/README.md) | [Bilibili](https://www.bilibili.com/video/BV1AqyJzRESi) | [start](lessons/00-why-code/start) · [final](lessons/00-why-code/final) |
+| 00 | [AI 都会写代码了，还要学编程吗？](lessons/00-why-code/README.md) | [Bilibili](https://www.bilibili.com/video/BV1AqyJzRESi) · [YouTube](https://youtu.be/ktOP4-7I0_k) | [start](lessons/00-why-code/start) · [final](lessons/00-why-code/final) |
 <!-- /lessons -->
 
 ## 许可

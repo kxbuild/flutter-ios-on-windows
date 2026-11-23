@@ -3,7 +3,7 @@
 中文：[README.md](README.md)
 
 <!-- video -->
-**Video**: [Bilibili](https://www.bilibili.com/video/BV1AqyJzRESi)
+**Video**: [Bilibili](https://www.bilibili.com/video/BV1AqyJzRESi) · [YouTube](https://youtu.be/ktOP4-7I0_k)
 <!-- /video -->
 
 **Code**: this is the course intro; there is no code.

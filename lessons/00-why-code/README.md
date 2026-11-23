@@ -3,7 +3,7 @@
 English: [README.en.md](README.en.md)
 
 <!-- video -->
-**视频**：[Bilibili](https://www.bilibili.com/video/BV1AqyJzRESi)
+**视频**：[Bilibili](https://www.bilibili.com/video/BV1AqyJzRESi) · [YouTube](https://youtu.be/ktOP4-7I0_k)
 <!-- /video -->
 
 **代码**：这是开课导读，没有代码。

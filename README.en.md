@@ -10,6 +10,7 @@
 中文：[README.md](README.md)
 
 <!-- links -->
+**Videos**: [YouTube playlist](https://www.youtube.com/playlist?list=PLPjfLxuxybDs)
 <!-- /links -->
 
 ## FAQ
@@ -47,7 +48,7 @@ To open a lesson's `start/` or `final/`: open the folder in VS Code, connect you
 
 | # | Lesson | Video | Code |
 |---|---|---|---|
-| 00 | [AI can write code now. Should you still learn to code?](lessons/00-why-code/README.en.md) | [Bilibili](https://www.bilibili.com/video/BV1AqyJzRESi) | [start](lessons/00-why-code/start) · [final](lessons/00-why-code/final) |
+| 00 | [AI can write code now. Should you still learn to code?](lessons/00-why-code/README.en.md) | [Bilibili](https://www.bilibili.com/video/BV1AqyJzRESi) · [YouTube](https://youtu.be/ktOP4-7I0_k) | [start](lessons/00-why-code/start) · [final](lessons/00-why-code/final) |
 <!-- /lessons -->
 
 ## License
