@@ -49,6 +49,7 @@ To open a lesson's `start/` or `final/`: open the folder in VS Code, connect you
 | # | Lesson | Video | Code |
 |---|---|---|---|
 | 00 | [AI can write code now. Should you still learn to code?](lessons/00-why-code/README.en.md) | [Bilibili](https://www.bilibili.com/video/BV1AqyJzRESi) · [YouTube](https://youtu.be/ktOP4-7I0_k) | [start](lessons/00-why-code/start) · [final](lessons/00-why-code/final) |
+| 01 | [Your first Flutter app on iPhone](lessons/01-first-app/README.en.md) | [Bilibili](https://www.bilibili.com/video/BV1T8yJz8EA4) · [YouTube](https://youtu.be/X6LbHDJSKak) | [start](lessons/01-first-app/start) · [final](lessons/01-first-app/final) |
 <!-- /lessons -->
 
 ## License
