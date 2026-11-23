@@ -43,6 +43,11 @@ English: [README.en.md](README.en.md)
 ## 课程目录
 
 <!-- lessons -->
+### 入门
+
+| # | 课程 | 视频 | 代码 |
+|---|---|---|---|
+| 00 | [AI 都会写代码了，还要学编程吗？](lessons/00-why-code/README.md) | [Bilibili](https://www.bilibili.com/video/BV1AqyJzRESi) | [start](lessons/00-why-code/start) · [final](lessons/00-why-code/final) |
 <!-- /lessons -->
 
 ## 许可

@@ -43,6 +43,11 @@ To open a lesson's `start/` or `final/`: open the folder in VS Code, connect you
 ## Lessons
 
 <!-- lessons -->
+### Basics
+
+| # | Lesson | Video | Code |
+|---|---|---|---|
+| 00 | [AI can write code now. Should you still learn to code?](lessons/00-why-code/README.en.md) | [Bilibili](https://www.bilibili.com/video/BV1AqyJzRESi) | [start](lessons/00-why-code/start) · [final](lessons/00-why-code/final) |
 <!-- /lessons -->
 
 ## License
