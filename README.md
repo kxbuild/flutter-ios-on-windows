@@ -50,6 +50,7 @@ English: [README.en.md](README.en.md)
 |---|---|---|---|
 | 00 | [AI 都会写代码了，还要学编程吗？](lessons/00-why-code/README.md) | [Bilibili](https://www.bilibili.com/video/BV1AqyJzRESi) · [YouTube](https://youtu.be/ktOP4-7I0_k) | [start](lessons/00-why-code/start) · [final](lessons/00-why-code/final) |
 | 01 | [跑起第一个应用](lessons/01-first-app/README.md) | [Bilibili](https://www.bilibili.com/video/BV1T8yJz8EA4) · [YouTube](https://youtu.be/X6LbHDJSKak) | [start](lessons/01-first-app/start) · [final](lessons/01-first-app/final) |
+| 02 | [项目结构与入口](lessons/02-project-structure/README.md) | [Bilibili](https://www.bilibili.com/video/BV1z3ydzEEn8) · [YouTube](https://youtu.be/UROCJV82VOI) | [start](lessons/02-project-structure/start) · [final](lessons/02-project-structure/final) |
 <!-- /lessons -->
 
 ## 许可
