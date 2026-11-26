@@ -53,6 +53,7 @@ To open a lesson's `start/` or `final/`: open the folder in VS Code, connect you
 | 02 | [Project structure and main.dart](lessons/02-project-structure/README.en.md) | [Bilibili](https://www.bilibili.com/video/BV1z3ydzEEn8) · [YouTube](https://youtu.be/UROCJV82VOI) | [start](lessons/02-project-structure/start) · [final](lessons/02-project-structure/final) |
 | 03 | [Dart basics: variables and functions](lessons/03-dart-basics/README.en.md) | [Bilibili](https://www.bilibili.com/video/BV1pgyqzTEqz) · [YouTube](https://youtu.be/YQgRRX8JGNA) | [start](lessons/03-dart-basics/start) · [final](lessons/03-dart-basics/final) |
 | 04 | [What is a widget](lessons/04-widgets/README.en.md) | [Bilibili](https://www.bilibili.com/video/BV1WxyizTEa4) · [YouTube](https://youtu.be/V2oxzQlI_Fs) | [start](lessons/04-widgets/start) · [final](lessons/04-widgets/final) |
+| 05 | [Text, icons and images](lessons/05-text-images/README.en.md) | [Bilibili](https://www.bilibili.com/video/BV1FUyyzsEy8) · [YouTube](https://youtu.be/9xMlikfpmbw) | [start](lessons/05-text-images/start) · [final](lessons/05-text-images/final) |
 <!-- /lessons -->
 
 ## License
