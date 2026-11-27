@@ -54,6 +54,7 @@ English: [README.en.md](README.en.md)
 | 03 | [Dart：变量与函数](lessons/03-dart-basics/README.md) | [Bilibili](https://www.bilibili.com/video/BV1pgyqzTEqz) · [YouTube](https://youtu.be/YQgRRX8JGNA) | [start](lessons/03-dart-basics/start) · [final](lessons/03-dart-basics/final) |
 | 04 | [Widget 是什么](lessons/04-widgets/README.md) | [Bilibili](https://www.bilibili.com/video/BV1WxyizTEa4) · [YouTube](https://youtu.be/V2oxzQlI_Fs) | [start](lessons/04-widgets/start) · [final](lessons/04-widgets/final) |
 | 05 | [文字、图标与图片](lessons/05-text-images/README.md) | [Bilibili](https://www.bilibili.com/video/BV1FUyyzsEy8) · [YouTube](https://youtu.be/9xMlikfpmbw) | [start](lessons/05-text-images/start) · [final](lessons/05-text-images/final) |
+| 06 | [布局：行与列](lessons/06-row-column/README.md) | [Bilibili](https://www.bilibili.com/video/BV1t11szmE48) · [YouTube](https://youtu.be/j_bhMn4Io14) | [start](lessons/06-row-column/start) · [final](lessons/06-row-column/final) |
 <!-- /lessons -->
 
 ## 许可
