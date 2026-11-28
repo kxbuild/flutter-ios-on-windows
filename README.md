@@ -55,6 +55,7 @@ English: [README.en.md](README.en.md)
 | 04 | [Widget 是什么](lessons/04-widgets/README.md) | [Bilibili](https://www.bilibili.com/video/BV1WxyizTEa4) · [YouTube](https://youtu.be/V2oxzQlI_Fs) | [start](lessons/04-widgets/start) · [final](lessons/04-widgets/final) |
 | 05 | [文字、图标与图片](lessons/05-text-images/README.md) | [Bilibili](https://www.bilibili.com/video/BV1FUyyzsEy8) · [YouTube](https://youtu.be/9xMlikfpmbw) | [start](lessons/05-text-images/start) · [final](lessons/05-text-images/final) |
 | 06 | [布局：行与列](lessons/06-row-column/README.md) | [Bilibili](https://www.bilibili.com/video/BV1t11szmE48) · [YouTube](https://youtu.be/j_bhMn4Io14) | [start](lessons/06-row-column/start) · [final](lessons/06-row-column/final) |
+| 07 | [布局：Stack 与约束](lessons/07-stack-constraints/README.md) | [Bilibili](https://www.bilibili.com/video/BV1J11AzuEnT) · [YouTube](https://youtu.be/E4he8rLHEZE) | [start](lessons/07-stack-constraints/start) · [final](lessons/07-stack-constraints/final) |
 <!-- /lessons -->
 
 ## 许可

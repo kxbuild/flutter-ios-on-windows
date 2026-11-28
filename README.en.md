@@ -55,6 +55,7 @@ To open a lesson's `start/` or `final/`: open the folder in VS Code, connect you
 | 04 | [What is a widget](lessons/04-widgets/README.en.md) | [Bilibili](https://www.bilibili.com/video/BV1WxyizTEa4) · [YouTube](https://youtu.be/V2oxzQlI_Fs) | [start](lessons/04-widgets/start) · [final](lessons/04-widgets/final) |
 | 05 | [Text, icons and images](lessons/05-text-images/README.en.md) | [Bilibili](https://www.bilibili.com/video/BV1FUyyzsEy8) · [YouTube](https://youtu.be/9xMlikfpmbw) | [start](lessons/05-text-images/start) · [final](lessons/05-text-images/final) |
 | 06 | [Layout: Row and Column](lessons/06-row-column/README.en.md) | [Bilibili](https://www.bilibili.com/video/BV1t11szmE48) · [YouTube](https://youtu.be/j_bhMn4Io14) | [start](lessons/06-row-column/start) · [final](lessons/06-row-column/final) |
+| 07 | [Layout: Stack and constraints](lessons/07-stack-constraints/README.en.md) | [Bilibili](https://www.bilibili.com/video/BV1J11AzuEnT) · [YouTube](https://youtu.be/E4he8rLHEZE) | [start](lessons/07-stack-constraints/start) · [final](lessons/07-stack-constraints/final) |
 <!-- /lessons -->
 
 ## License
